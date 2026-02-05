@@ -1,6 +1,6 @@
 # Hi, I'm Ali Pastor Ferrer 👋
 
-I am a *Systems Engineering student* at Universidad Nacional Abierta (UNA) in Venezuela. My professional goal is to become a *Junior Python Backend Developer*, focusing on building scalable, reliable, and well-tested software.
+I am a *Systems Engineering student* at Universidad Nacional Abierta (UNA) in Venezuela. My professional goal is to become a *Python Backend Developer*, focusing on building scalable, reliable, and well-tested software.
 
 ### 🚀 About Me
 - 🎓 Currently in my first semester of *Systems Engineering*.
